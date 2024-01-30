@@ -1,0 +1,10 @@
+Server:In computing, a server is a piece of computer hardware or software
+that provides functionality for other programs or devices, called clients.
+
+VPN:A virtual private network is a mechanism for creating a secure connection
+between a computing device and a computer network, or between two networks,
+using an insecure communication medium such as the public Internet.
+
+Cloud Computing:Cloud computing is the on-demand availability of computer system
+resources, especially data storage and computing power, without direct active
+management by the user.   
